@@ -1,4 +1,5 @@
-#crear un juego interactivo,con historia en la que cada decision me lleve a un escenario diferente 
+#crear un juego interactivo,con historia en la que cada decision me lleve a un escenario 
+# diferente 
 
 print("")
 print("\t BAJO LA LLUVIA") 

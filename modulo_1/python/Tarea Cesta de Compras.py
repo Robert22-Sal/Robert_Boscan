@@ -2,7 +2,7 @@
 
 lista = [] 
 precios = []
-print()
+print("")
 agregar_a_la_lista = input("Qué deseas agregar a la cesta?").lower()
 precio1 = float(input("Cuál es el precio de eso?"))
 precios.append(precio1)
