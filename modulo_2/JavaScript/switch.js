@@ -36,13 +36,11 @@ switch (diasSemana) {
 }
 
 // ejercicio 2
+console.log ("iniciar");
+console.log ("guardar");
+console.log ("salir");
 
-let opcioMenu = prompt("elije una opcion del menu: ").tolowerCase();
-
-const menu1 = "iniciar";
-const menu2 = "guardar";
-const menu3 = "salir";
-
+let opcionMenu = prompt("elije una opcion del menu: ").toLowerCase();
 switch (opcionMenu) {
 
     case "iniciar":
@@ -50,6 +48,13 @@ switch (opcionMenu) {
         break;
     case "guardar":
         console.log ("guardando...");
+        break;
+    case "salir":
+        console.log ("saliendo...");
+        break;
+    default:
+        console.log ("esa opcion no esta disponiblre");
+        break;
 }
 
 
