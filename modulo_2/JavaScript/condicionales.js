@@ -49,7 +49,6 @@ else {
     console.log ("acceso denegado")
 }
 
-
 // ejercicio 5
 
 let montoCompra = Number(prompt("ingresa el monto"));

@@ -6,7 +6,7 @@ esEstudiante = ("soy estudiante");
 
 console.log (`me llamo ${nombre}, tengo ${edad} años, y ${esEstudiante}`);
 
-// ejercicio 2
+// ejercicio 2: no se moleste profe :v
 
 let nombre2 = prompt("ingresa tu nombre: ");
 let año = Number(prompt("ingresa tu nombre: "));

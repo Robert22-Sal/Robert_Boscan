@@ -36,6 +36,7 @@ switch (diasSemana) {
 }
 
 // ejercicio 2
+
 console.log ("iniciar");
 console.log ("guardar");
 console.log ("salir");
