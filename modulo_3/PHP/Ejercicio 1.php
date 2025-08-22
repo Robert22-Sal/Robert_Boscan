@@ -114,6 +114,7 @@ else{
 
 // Ejercicio 10 Escribe un programa que realice una cuenta regresiva desde el 10 hasta el 1. Al finalizar, debe mostrar el mensaje: "¡Feliz Año Nuevo! 🎉"
 
+
 for($i = 10; $i <= 0; $i-=1) {
     echo "" .$i. "\n";
     if ($i == 0){
